@@ -10,7 +10,7 @@ baseurl: ""
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: zh
+lang: zh-CN
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
@@ -20,7 +20,7 @@ timezone: Asia/Shanghai
 
 title: fenggwsx # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: 个人博客 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   The blog of fenggwsx
@@ -32,16 +32,16 @@ github:
   username: fenggwsx # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: fenggwsx # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: fenggwsx
   email: fenggwsx@foxmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/fenggwsx # change to your twitter homepage
     - https://github.com/fenggwsx # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -80,7 +80,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: "/assets/img/avatar/avatar.svg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
