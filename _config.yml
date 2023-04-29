@@ -31,9 +31,6 @@ url: ""
 github:
   username: fenggwsx # change to your github username
 
-twitter:
-  username: fenggwsx # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -41,7 +38,7 @@ social:
   email: fenggwsx@foxmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/fenggwsx # change to your twitter homepage
+    # - https://twitter.com/fenggwsx # change to your twitter homepage
     - https://github.com/fenggwsx # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -53,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-15E71MXG1Q # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -70,7 +67,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
